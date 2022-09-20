@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is the great",
+      "id": 5
+    },
+    {
+      "title": "other stream",
+      "description": "another",
+      "id": 6
+    },
+    {
+      "title": "Creed Change",
+      "description": "Adventure Change",
+      "id": 8
+    },
+    {
+      "title": "Gta 5 Change",
+      "description": "RockStar Change",
+      "userId": "105073877372766165440",
+      "id": 9
+    }
+  ]
+}
